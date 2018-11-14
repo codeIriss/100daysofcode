@@ -1,0 +1,13 @@
+/*Day 1 of #100 days of code challenge 
+topic 1 is comment your javascript code and it can be done by two ways
+way1 is inline comment and */
+//we can use two backward slash for the single line comments and
+//way2 is multi-line comments and 
+/*we can use one backward slash with a star sign and we need to close it with the same*/
+
+
+// creating variables in javascript
+var ourName;
+
+// Declare myName below this line
+var myName;
