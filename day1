@@ -23,3 +23,56 @@ Assign the value 7 to variable a
 Assign the contents of a to variable b */
 a = 7;
 b = a;
+
+
+//  Initializing Variables with the Assignment Operator
+
+var ourVar = 19;
+
+// Define a variable a with var and initialize it to a value of 9.
+var a = 9;
+
+
+//Basic JavaScript: Understanding Uninitialized Variables
+var a;
+var b;
+var c;
+
+/*Initialize the three variables a, b, and c with 5, 10, and "I am a" respectively so that they will not be undefined*/
+a = 5;
+b = 10;
+c = "I am a";
+a = a + 1;
+b = b + 5;
+c = c + " String!";
+
+
+
+//Understanding Case Sensitivity in Variables
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// use camelCase
+studlyCapVar = 10;
+properCamelCase = "A String";
+
+
+// Add Two Numbers with JavaScript
+//in js we use + operator for addition
+var sum = 10 + 10;
+
+
+// Subtract One Number from Another with JavaScript
+//in js we - operator for subtraction
+var difference = 45 - 33;
+
+
+//Multiply Two Numbers with JavaScript
+//* is used in js for multiplication
+var product = 8 * 10;
+
+//Divide One Number by Another with JavaScript
+// js uses the / symbol for division
+
+var quotient = 66 / 33
